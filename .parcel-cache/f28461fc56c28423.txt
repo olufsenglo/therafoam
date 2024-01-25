@@ -1,4 +1,4 @@
-8124
+8123
 125C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\css-select\node_modules\domutils\lib\esm\index.d.ts133506704152494736 0
 123C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\resolve\test\resolver\other_path\lib\other-lib.js133506738747588049 0
 105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\dist\schema\core\bool.d.ts133506738773995795 0
@@ -26,7 +26,7 @@
 119C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\tailwindcss\lib\util\formatVariantSelector.js133506738753299585 0
 118C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\mjs\all-signals.js.map133506738689674421 0
 105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\workers\src\cpuCount.js133506703674188913 0
-65C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist133506800480378190 1
+65C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist133506814778684906 1
 83C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\commander133506703466345171 1
 89C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\js-yaml\LICENSE133506702634187840 0
 152C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\supports.js133506704388620378 0
@@ -71,7 +71,7 @@
 149C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133506704303341999 0
 98C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\postcss\lib\comment.d.ts133506738734686647 0
 80C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@lezer133506702417612957 1
-64C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\src133506801540509281 1
+64C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\src133506803842993064 1
 92C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\dom-serializer\lib133506703670130655 1
 95C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\picomatch\lib\scan.js133506703375591019 0
 110C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\ts-interface-checker\dist\types.d.ts133506738662804252 0
@@ -85,21 +85,6 @@
 138C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133506703229724016 0
 99C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\posthtml-render\readme.md133506703314571102 0
 79C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\tailwind.config.js133506776957037596 0
-119C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\caniuse-lite\data\features\css-reflections.js133506704944503151 0
-87C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\color-convert133506703374944982 1
-109C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\transformer-postcss\LICENSE133506702769110110 0
-85C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\glob-parent133506738648876190 1
-116C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\dist\stringify\stringifyDocument.d.ts133506738778903670 0
-121C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133506704766082802 0
-105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\nodes\Pair.js133506738749245529 0
-79C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\clone133506703321516098 1
-122C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\mdn-data\css\units.schema.json133506703820783956 0
-142C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\sucrase\dist\types\transformers\OptionalCatchBindingTransformer.d.ts133506738775809096 0
-105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\dist\doc\applyReviver.d.ts133506738773875875 0
-80C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\src\.index.html.swp133506801533820039 0
-133C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\walker133506704235423115 1
-120C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\wrap-ansi\node_modules\ansi-regex\package.json133506738658571215 0
-108C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\dom-serializer\lib\foreignNames.js133506703195788184 0
 165C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts.map133506703758879535 0
 124C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\caniuse-lite\data\features\css-element-function.js133506704698677567 0
 86C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\cli-progress133506703660139503 1
@@ -137,7 +122,7 @@
 118C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@swc\helpers\_\_to_property_key\package.json133506704974965027 0
 106C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\node-gyp-build-optional-packages133506703362477361 1
 125C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@swc\helpers\_\_class_static_private_field_spec_get133506704810813050 1
-75C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\src\index.html133506801540329409 0
+75C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\src\index.html133506814774930737 0
 120C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133506703833656419 0
 127C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\data133506704442086225 1
 138C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare133506704028174825 1
@@ -342,6 +327,17 @@
 100C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\visit.js133506738759847634 0
 99C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\is-binary-path\index.d.ts133506738639235897 0
 92C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\chrome-trace-event133506703383978728 1
+119C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\caniuse-lite\data\features\css-reflections.js133506704944503151 0
+87C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\color-convert133506703374944982 1
+109C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\transformer-postcss\LICENSE133506702769110110 0
+85C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\glob-parent133506738648876190 1
+116C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\dist\stringify\stringifyDocument.d.ts133506738778903670 0
+121C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133506704766082802 0
+105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\nodes\Pair.js133506738749245529 0
+79C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\clone133506703321516098 1
+122C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\mdn-data\css\units.schema.json133506703820783956 0
+142C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\sucrase\dist\types\transformers\OptionalCatchBindingTransformer.d.ts133506738775809096 0
+105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\dist\doc\applyReviver.d.ts133506738773875875 0
 96C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\path-type\package.json133506702633306105 0
 111C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@lmdb\lmdb-win32-x64\node.abi108.node133506703480858459 0
 111C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\compose\composer.js133506738732512396 0
@@ -1617,7 +1613,7 @@
 104C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\domutils\lib\manipulation.d.ts133506703721973795 0
 123C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\caniuse-lite\data\features\link-rel-preconnect.js133506705396194779 0
 110C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\tailwindcss\stubs\postcss.config.cjs133506738689674421 0
-91C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\therafoam.59712999.js.map133506789473846357 0
+91C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\therafoam.59712999.js.map133506814778654954 0
 103C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\transformer-image\lib133506703329022478 1
 114C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\parse\cst-stringify.js133506738736678604 0
 113C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\yaml\browser\dist\parse\line-counter.js133506738747687971 0
@@ -1782,6 +1778,9 @@
 116C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\wrap-ansi\node_modules\ansi-regex\index.js133506738652942271 0
 107C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\lmdb\dependencies\lz4\lib\LICENSE133506703572550408 0
 115C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\wrap-ansi\node_modules\ansi-regex\license133506738647854871 0
+133C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\walker133506704235423115 1
+120C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\wrap-ansi\node_modules\ansi-regex\package.json133506738658571215 0
+108C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\dom-serializer\lib\foreignNames.js133506703195788184 0
 91C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\semver\preload.js133506703836243332 0
 101C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\glob\dist\esm\glob.d.ts.map133506738703993155 0
 121C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\mdn-data\api\inheritance.json133506703593152535 0
@@ -2106,7 +2105,7 @@
 128C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133506704785623271 0
 133C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\resolve\test\resolver\multirepo\packages\package-a\index.js133506738741147108 0
 104C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\tailwindcss\nesting\index.d.ts133506738784156399 0
-84C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.61d3354a.css133506800480308229 0
+84C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.61d3354a.css133506814778604950 0
 100C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\string-width-cjs\readme.md133506738611158159 0
 113C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@swc\helpers\cjs\_apply_decs_2203_r.cjs133506703108542005 0
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\tailwindcss\colors.d.ts133506738783291725 0
@@ -3190,7 +3189,7 @@
 102C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\cosmiconfig\dist\Explorer.js133506703006244441 0
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\postcss\lib\postcss.mjs133506738732845497 0
 102C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\node-addon-api\noexcept.gypi133506703313541518 0
-76C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.html133506800480198278 0
+76C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.html133506814778564999 0
 91C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\is-number\LICENSE133506703043020427 0
 103C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\source-map\dist\source-map.js133506703753470082 0
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\signal-exit\LICENSE.txt133506738707441063 0
@@ -3809,7 +3808,7 @@
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\parse-json\package.json133506703056893797 0
 143C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\dir.js133506704049650249 0
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\parent-module\readme.md133506703189768377 0
-90C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\half-circle.5102667c.svg133506795854872182 0
+90C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\half-circle.5102667c.svg133506814778564999 0
 84C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\parcel\lib133506703241835781 1
 100C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\fs\src\MemoryFS.js133506703452224118 0
 93C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\parcel\package.json133506703431797501 0
@@ -3978,7 +3977,7 @@
 106C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\htmlnano\lib\presets\ampSafe.cjs133506703022654445 0
 104C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\nanoid\non-secure\package.json133506738698678933 0
 113C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133506704358615515 0
-88C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.61d3354a.css.map133506800480358172 0
+88C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\index.61d3354a.css.map133506814778664930 0
 103C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@parcel\profiler\lib\index.js133506703090575521 0
 91C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\base-x\LICENSE.md133506703103205262 0
 103C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\nanoid\async\index.browser.js133506738687845531 0
@@ -4836,8 +4835,8 @@
 97C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\@lezer\common\README.md133506703466575024 0
 114C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\cjs\all-signals.js133506738634432015 0
 110C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\cjs\index.d.ts133506738704212992 0
-125C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts133506704135198808 0
 118C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\csso\node_modules\css-tree\lib\syntax\atrule133506704971242462 1
+125C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts133506704135198808 0
 114C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\cjs\index.d.ts.map133506738690703798 0
 108C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\cjs\index.js133506738647774912 0
 112C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\foreground-child\dist\cjs\index.js.map133506738695001173 0
@@ -8122,4 +8121,4 @@
 94C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\.bin\tailwindcss.cmd133506738786774739 0
 105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\.bin\update-browserslist-db.cmd133506705604153365 0
 105C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\node_modules\.bin\update-browserslist-db.ps1133506705604143277 0
-87C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\therafoam.59712999.js133506789473756427 0
+87C:\Users\Samuel Bello\Pictures\got_remote\projects\therafoam\dist\therafoam.59712999.js133506814778604950 0
