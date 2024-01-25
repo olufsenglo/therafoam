@@ -1,0 +1,21 @@
+# Node.js files
+node_modules/
+
+# Parcel output directory
+dist/
+
+# Cache and logs
+.cache/
+parcel-debug.log
+
+# Editor files
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
